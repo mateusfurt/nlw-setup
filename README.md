@@ -15,6 +15,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:<br>
 - Figma<br>
 # 💻 Projeto<br>
 O Habits é um app para ajudar a rastrear os hábitos.<br>
+- [Visite o projeto online](https://mateusfurt.github.io/nlw-setup/)
 
 ## 🔖 Layout
 
