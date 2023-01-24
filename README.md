@@ -17,7 +17,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:<br>
 O Habits é um app para ajudar a rastrear os hábitos.<br>
 - 
 <a href="https://mateusfurt.github.io/nlw-setup/
-">Visote o projeto online</a>
+">Visite o projeto online</a>
 
 ## 🔖 Layout
 
